@@ -249,7 +249,7 @@ const fetchIssues = async () => {
       {
         Accept: "application/vnd.github+json",
         // TODO: replace <AUTH-TOKEN> with RDS org PAT
-        Authorization: `Bearer <AUTH-TOKEN>`,
+        Authorization: `Bearer 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`,
         org: config.get("githubApi.org"),
       }
     );

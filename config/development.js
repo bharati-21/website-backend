@@ -3,7 +3,7 @@
  * Defaults set from default.js
  */
 
-const port = 3000;
+const port = 8000;
 const localUrl = `http://localhost:${port}`;
 
 module.exports = {

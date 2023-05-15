@@ -8,6 +8,12 @@
       "host": "0.0.0.0",
       "enabled": true,
       "port": 4000
+    },
+    "auth": {
+      "port": 9099
+    },
+    "functions": {
+      "port": 5001
     }
   }
 }
